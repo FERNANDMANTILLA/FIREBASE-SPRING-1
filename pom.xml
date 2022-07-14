@@ -15,7 +15,6 @@
 	<name>web</name>
 	<description>this is firebase spring proyect</description>
 	<properties>
-		<java.version>11</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
